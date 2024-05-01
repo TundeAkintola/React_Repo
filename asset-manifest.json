@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/TundeAkintola/React_Repo.git/static/css/main.ac8c79f8.css",
+    "main.js": "/TundeAkintola/React_Repo.git/static/js/main.5a2312f8.js",
+    "index.html": "/TundeAkintola/React_Repo.git/index.html",
+    "main.ac8c79f8.css.map": "/TundeAkintola/React_Repo.git/static/css/main.ac8c79f8.css.map",
+    "main.5a2312f8.js.map": "/TundeAkintola/React_Repo.git/static/js/main.5a2312f8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ac8c79f8.css",
+    "static/js/main.5a2312f8.js"
+  ]
+}
