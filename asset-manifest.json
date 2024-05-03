@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/TundeAkintola/React_Repo.git/static/css/main.ac8c79f8.css",
-    "main.js": "/TundeAkintola/React_Repo.git/static/js/main.3f1da6f8.js",
+    "main.css": "/TundeAkintola/React_Repo.git/static/css/main.41a19a12.css",
+    "main.js": "/TundeAkintola/React_Repo.git/static/js/main.d8dbd506.js",
     "index.html": "/TundeAkintola/React_Repo.git/index.html",
-    "main.ac8c79f8.css.map": "/TundeAkintola/React_Repo.git/static/css/main.ac8c79f8.css.map",
-    "main.3f1da6f8.js.map": "/TundeAkintola/React_Repo.git/static/js/main.3f1da6f8.js.map"
+    "main.41a19a12.css.map": "/TundeAkintola/React_Repo.git/static/css/main.41a19a12.css.map",
+    "main.d8dbd506.js.map": "/TundeAkintola/React_Repo.git/static/js/main.d8dbd506.js.map"
   },
   "entrypoints": [
-    "static/css/main.ac8c79f8.css",
-    "static/js/main.3f1da6f8.js"
+    "static/css/main.41a19a12.css",
+    "static/js/main.d8dbd506.js"
   ]
 }
