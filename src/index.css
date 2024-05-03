@@ -25,7 +25,6 @@ body {
     cursor: pointer;
     border-top: 4px solid #fff;
     border-bottom: 4px solid #fff;
-
     display: grid;
     grid-template-columns: auto 1fr auto;
     column-gap: 24px;
