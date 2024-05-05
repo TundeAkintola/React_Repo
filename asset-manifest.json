@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/TundeAkintola/React_Repo.git/static/css/main.41a19a12.css",
-    "main.js": "/TundeAkintola/React_Repo.git/static/js/main.d8dbd506.js",
-    "index.html": "/TundeAkintola/React_Repo.git/index.html",
-    "main.41a19a12.css.map": "/TundeAkintola/React_Repo.git/static/css/main.41a19a12.css.map",
-    "main.d8dbd506.js.map": "/TundeAkintola/React_Repo.git/static/js/main.d8dbd506.js.map"
+    "main.css": "/accordion.git/static/css/main.41a19a12.css",
+    "main.js": "/accordion.git/static/js/main.9451baff.js",
+    "index.html": "/accordion.git/index.html",
+    "main.41a19a12.css.map": "/accordion.git/static/css/main.41a19a12.css.map",
+    "main.9451baff.js.map": "/accordion.git/static/js/main.9451baff.js.map"
   },
   "entrypoints": [
     "static/css/main.41a19a12.css",
-    "static/js/main.d8dbd506.js"
+    "static/js/main.9451baff.js"
   ]
 }
