@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/React_Repo/static/css/main.41a19a12.css",
-    "main.js": "/React_Repo/static/js/main.ddb15f5b.js",
-    "index.html": "/React_Repo/index.html",
-    "main.41a19a12.css.map": "/React_Repo/static/css/main.41a19a12.css.map",
-    "main.ddb15f5b.js.map": "/React_Repo/static/js/main.ddb15f5b.js.map"
+    "main.css": "/React_Repo/accordion/static/css/main.41a19a12.css",
+    "main.js": "/React_Repo/accordion/static/js/main.ddb15f5b.js",
+    "index.html": "/React_Repo/accordion/index.html",
+    "main.41a19a12.css.map": "/React_Repo/accordion/static/css/main.41a19a12.css.map",
+    "main.ddb15f5b.js.map": "/React_Repo/accordion/static/js/main.ddb15f5b.js.map"
   },
   "entrypoints": [
     "static/css/main.41a19a12.css",
